@@ -1,12 +1,6 @@
 # Water Surface/Underwater Effect
 Water Surface/Underwater Effect in Unity
 
-
-
-
-
-
-<img width="1920" height="1080" alt="Ekran Görüntüsü (18094)" src="https://github.com/user-attachments/assets/ec822b47-ea02-4857-8761-a361896c9126" />
 <img width="1558" height="838" alt="Ekran Görüntüsü (18092)" src="https://github.com/user-attachments/assets/6fd3ac15-454b-4c0a-a974-19117cce6462" />
 <img width="1542" height="847" alt="Ekran Görüntüsü (18091)" src="https://github.com/user-attachments/assets/6636b9b1-a0d8-4e3a-98ef-dad6fe55b844" />
 <img width="1551" height="861" alt="Ekran Görüntüsü (18090)" src="https://github.com/user-attachments/assets/e37dd8ae-9499-44d1-9f4f-4d042807e611" />
